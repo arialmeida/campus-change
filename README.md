@@ -2,7 +2,7 @@
 
 ## Map visualizing elevation change on University of Kentucky's campus and surrounding areas.
 
-This map shows the change in elevation on the University of Kentucky's campus and surrounding areas between 2010 and 2019. Key changes include the construction of new dormitory buildings on campus, represented by the large blue clusters t the bottom of the map (Woodland Glen dorms) and the at the top (Holmes Hall, Jewell Hall, and Blazer Hall), as well as the student housing apartment complex at the very top left of the map, The Hub Lexington.
+This map shows the change in elevation on the University of Kentucky's campus and surrounding areas between 2010 and 2019. Key changes include the construction of new dormitory buildings on campus, represented by the large blue clusters at the bottom of the map (Woodland Glen dorms) and the at the top left (Holmes Hall, Jewell Hall, and Blazer Hall), as well as the student housing apartment complex at the very top left of the map, The Hub Lexington.
 
 ![Caption of map](campus-change.jpg)  
 _Change in elevation around campus, centering William T. Young library._
